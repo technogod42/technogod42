@@ -1,4 +1,9 @@
 ## Hi there 👋
+👋 Hi, I’m @technogod42
+👀 I’m interested in everything related to computers
+🌱 I’m currently learning machine learning and MERN stack
+💞️ I’m looking to collaborate on everything
+📫 How to reach me X-https://twitter.com/dubeyjiworks , linkedin- www.linkedin.com/in/shivam-dubey-681225124
 
 <!--
 **technogod42/technogod42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
